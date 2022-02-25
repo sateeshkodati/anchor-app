@@ -44,7 +44,7 @@ export function AnchorEarnApp() {
     .then(depost => {
         setTotalDeposit(depost);
         setLoading(false);
-        // window.location.reload();
+        window.location.reload();
     });
   };
   
@@ -61,13 +61,13 @@ export function AnchorEarnApp() {
     .then(depost => {
         setTotalDeposit(depost);
         setLoading(false);
-        // window.location.reload();
+        window.location.reload();
     });
   };
 
   return (
     <div>
-      <h1>Anchor Earn</h1>
+      <h1>Anchor Earn </h1>
       <div>
         {loading && 
           <b style={{ color: 'green' }}>Transaction In progress....</b>
