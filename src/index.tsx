@@ -11,7 +11,7 @@ function App() {
   return (
     <main style={{ margin: 20, display: 'flex', flexDirection: 'column'}}>
       <div>
-        <h1>Terra Wallet</h1>
+        <h1>Wallet</h1>
         <AccountBalance />
         <ConnectWallet />
       </div>
