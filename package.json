@@ -35,6 +35,7 @@
     ]
   },
   "dependencies": {
+    "@anchor-protocol/anchor-earn": "^2.0.0",
     "@anchor-protocol/anchor.js": "^5.0.1",
     "@terra-dev/use-dialog": "^0.20.1",
     "@terra-money/terra.js": "^3.0.2",
