@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://sateeshkodati.github.io/anchor-app/static/css/main.4e8018dc.css",
-    "main.js": "https://sateeshkodati.github.io/anchor-app/static/js/main.f9b7032b.js",
+    "main.js": "https://sateeshkodati.github.io/anchor-app/static/js/main.7ea87c95.js",
     "index.html": "https://sateeshkodati.github.io/anchor-app/index.html",
     "main.4e8018dc.css.map": "https://sateeshkodati.github.io/anchor-app/static/css/main.4e8018dc.css.map",
-    "main.f9b7032b.js.map": "https://sateeshkodati.github.io/anchor-app/static/js/main.f9b7032b.js.map"
+    "main.7ea87c95.js.map": "https://sateeshkodati.github.io/anchor-app/static/js/main.7ea87c95.js.map"
   },
   "entrypoints": [
     "static/css/main.4e8018dc.css",
-    "static/js/main.f9b7032b.js"
+    "static/js/main.7ea87c95.js"
   ]
 }
