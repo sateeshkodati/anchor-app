@@ -1,6 +1,6 @@
 {
   "name": "Anchor-earn-sample-app ",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "scripts": {
     "build": "react-app-rewired build",
     "start": "react-app-rewired start",
@@ -34,7 +34,7 @@
     ]
   },
   "dependencies": {
-    "@anchor-protocol/anchor-earn": "^1.1.1",
+    "@anchor-protocol/anchor.js": "^5.0.1",
     "@terra-dev/use-dialog": "^0.20.1",
     "@terra-money/terra.js": "^3.0.2",
     "@terra-money/wallet-provider": "^3.6.5",
