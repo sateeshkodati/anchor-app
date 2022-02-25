@@ -11,7 +11,7 @@ function App() {
   return (
     <main style={{ margin: 20, display: 'flex', flexDirection: 'column'}}>
       <h1>Sample Achor Earn app</h1>
-      <p> Note: this app is tested with Terra wallet in your browser, install Terra wallet  https://chrome.google.com/webstore/detail/terra-station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp</p>
+      <p> Note: this app is tested with Terra wallet testnet and hardcoded for testnet, install Terra wallet  in your browser  https://chrome.google.com/webstore/detail/terra-station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp</p>
       <br />
       <div>
         <h1>Wallet</h1>
